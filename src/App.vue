@@ -1,7 +1,13 @@
 <script setup></script>
 
 <template>
-  <h1>Pokedexedv2</h1>
+  <header>
+    <nav class="navbar bg-body-tertiary">
+      <div class="container-fluid">
+        <a href="" class="navbar-brand"> Animetry </a>
+      </div>
+    </nav>
+  </header>
 </template>
 
 <style scoped></style>
